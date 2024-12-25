@@ -68,8 +68,7 @@
     <Button
         style="@style/buttonOperator"
         android:text="/"
-        android:onClick="operatorAction" />/>
-
+        android:onClick="operatorAction" />
 
 
     </LinearLayout>
@@ -91,7 +90,7 @@
         <Button
             style="@style/buttonOperator"
             android:text="x"
-            android:onClick="operatorAction" />/>
+            android:onClick="operatorAction" />
 
 
 
@@ -114,7 +113,7 @@
         <Button
             style="@style/buttonOperator"
             android:text="-"
-            android:onClick="operatorAction" />/>
+            android:onClick="operatorAction" />
 
 
 
@@ -137,7 +136,7 @@
         <Button
             style="@style/buttonOperator"
             android:text="+"
-            android:onClick="operatorAction" />/>
+            android:onClick="operatorAction" />
 
 
 
